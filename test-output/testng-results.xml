@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="148497" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:45:04Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="39615" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:43:16Z">
+      <class name="org.paral.Crossbro">
+        <test-method status="PASS" signature="testcase(java.lang.String)[pri:0, instance:org.paral.Crossbro@25bbe1b6]" name="testcase" duration-ms="39514" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:43:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- org.paral.Crossbro -->
+    </test> <!-- Chrome Test -->
+    <test name="Firefox Test" duration-ms="85379" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:44:01Z">
+      <class name="org.paral.Crossbro">
+        <test-method status="PASS" signature="testcase(java.lang.String)[pri:0, instance:org.paral.Crossbro@71423665]" name="testcase" duration-ms="85299" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:44:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ffox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- org.paral.Crossbro -->
+    </test> <!-- Firefox Test -->
+    <test name="IE Test" duration-ms="148497" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:45:04Z">
+      <class name="org.paral.Crossbro">
+        <test-method status="PASS" signature="testcase(java.lang.String)[pri:0, instance:org.paral.Crossbro@4e9ba398]" name="testcase" duration-ms="148416" started-at="2022-05-24T19:42:36Z" finished-at="2022-05-24T19:45:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intexp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- org.paral.Crossbro -->
+    </test> <!-- IE Test -->
+  </suite> <!-- Suite -->
+</testng-results>
